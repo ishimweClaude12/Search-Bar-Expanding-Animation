@@ -22,6 +22,8 @@ body{
     border-radius: 5px;
     padding: .3rem;
     z-index: 1;
+    width: 2rem;
+    height: 2rem;
 }
 .input{
     height: 29px;
@@ -36,4 +38,9 @@ body{
 .active{
     transform: translateX(0);
     
+}
+.btn .fa{
+    color: #fff;
+    justify-content: center;
+    top: .2rem;
 }
